@@ -1,7 +1,6 @@
 Mgmt_ip: 10.0.0.1
 Sdn_controller: 10.20.2.2
 Vlans:
-Red:
 Id:10
 Blue:
 Id:20
