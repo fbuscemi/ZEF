@@ -1,6 +1,6 @@
 Sdn_controller: 10.20.2.2
 Vlans:
-Id:10
+Id:1
 Blue:
 Id:20
 Ports:
